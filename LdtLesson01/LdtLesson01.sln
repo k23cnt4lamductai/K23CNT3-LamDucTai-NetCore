@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LdtLesson01", "LdtLesson01.csproj", "{FBD79A7D-9845-4268-9531-BF815C69AF66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LdtLesson01.mvc", "..\Lesson01.mvc\LdtLesson01.mvc.csproj", "{2E51AAEC-A3FE-45EE-99DA-5540BC71011F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBD79A7D-9845-4268-9531-BF815C69AF66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBD79A7D-9845-4268-9531-BF815C69AF66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBD79A7D-9845-4268-9531-BF815C69AF66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBD79A7D-9845-4268-9531-BF815C69AF66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E51AAEC-A3FE-45EE-99DA-5540BC71011F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E51AAEC-A3FE-45EE-99DA-5540BC71011F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E51AAEC-A3FE-45EE-99DA-5540BC71011F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E51AAEC-A3FE-45EE-99DA-5540BC71011F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADD45BDA-0769-4C77-AB15-168FEA4A6E05}
+	EndGlobalSection
+EndGlobal
