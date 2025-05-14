@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Lesson04.Models.LdtBook>
+@{
+    ViewData["Title"] = "List Book";
+}
+
+<h1>Thông tin các cuốn sách</h1>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>BookID</th>
+            <th>Title</th>
+            <th>Desciption</th>
+            <th>Image</th>
+            <th>Price</th>
+        </tr>
+    </thead> 
+    <tbody>
+        @foreach (var ldtItem in Model)
+        {
+            <tr>
+                <td>@ldtItem.LdtID</td>
+                <td>@ldtItem.LdtTitle</td>
+                <td>@ldtItem.LdtDesciption</td>
+                <td>
+                    <img src="@ldtItem.LdtImage" alt="@ldtItem.LdtTitle " />
+                </td>
+                <td>@ldtItem.LdtPrice </td>
+            </tr>
+        }
+    </tbody>
+
+
+</table>
+

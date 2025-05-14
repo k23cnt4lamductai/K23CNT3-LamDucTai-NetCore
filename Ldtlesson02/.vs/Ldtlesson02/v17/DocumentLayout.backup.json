@@ -59,8 +59,7 @@
               "RelativeToolTip": "..\\Lesson02.mvc\\Views\\Account\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAB2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T03:41:31.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T03:41:31.112Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "..\\Lesson02.mvc\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T03:40:36.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T03:40:36.351Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "..\\Lesson02.mvc\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T02:05:37.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T02:05:37.467Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "..\\Lesson02.mvc\\Views\\Shared\\LdtLayout.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T01:49:38.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T01:49:38.931Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "..\\Lesson02.mvc\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T01:47:29.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T01:47:29.104Z"
             },
             {
               "$type": "Document",
@@ -124,8 +119,7 @@
               "RelativeToolTip": "..\\Lesson02.mvc\\Models\\Account.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T03:56:46.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T03:56:46.76Z"
             },
             {
               "$type": "Document",
@@ -137,8 +131,7 @@
               "RelativeToolTip": "..\\Lesson02.mvc\\Controllers\\LdtHomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T01:44:33.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T01:44:33.646Z"
             }
           ]
         }
