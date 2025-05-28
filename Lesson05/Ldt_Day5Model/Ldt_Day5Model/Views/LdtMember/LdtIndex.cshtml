@@ -1,0 +1,34 @@
+﻿@using Ldt_Day5Model.Models.DataModels
+@model IEnumerable<LdtMember>
+@{
+    ViewData["Title"] = "LdtIndex";
+    Layout = "_LdtLayout";
+}
+
+<h1>Danh sách member</h1>
+
+<table class="table table-striped table-hover">
+    <thead class="table-dark">
+
+        <tr>
+            <th>Member Id</th>
+            <th>Member UserName</th>
+            <th>Member Password</th>
+            <th>Member FullName</th>
+            <th>Member Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (LdtMember LdtItem in Model)
+        {
+            <tr>
+                <td>@LdtItem.LdtMemberId</td>
+                <td>@LdtItem.LdtUserName</td>
+                <td>@LdtItem.LdtPassword</td>
+                <td>@LdtItem.LdtFullName</td>
+                <td>@LdtItem.LdtEmail</td>
+
+            </tr>
+        }
+    </tbody>
+</table>

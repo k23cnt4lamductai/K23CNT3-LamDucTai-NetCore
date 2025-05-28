@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ldt_Day5Model\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ldt_Day5Model\\Ldt_Day5Model.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\Ldt_day5model\\Ldt_day5model\\controllers\\Ldthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ldt_Day5Model\\Ldt_Day5Model.csproj|solutionrelative:Ldt_day5model\\controllers\\Ldthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ldt_Day5Model\\Ldt_Day5Model.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\Ldt_day5model\\Ldt_day5model\\views\\Ldthome\\Ldtabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ldt_Day5Model\\Ldt_Day5Model.csproj|solutionrelative:Ldt_day5model\\views\\Ldthome\\Ldtabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ldt_Day5Model\\Ldt_Day5Model.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\Ldt_day5model\\Ldt_day5model\\views\\Ldtmember\\Ldtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ldt_Day5Model\\Ldt_Day5Model.csproj|solutionrelative:Ldt_day5model\\views\\Ldtmember\\Ldtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ldt_Day5Model\\Ldt_Day5Model.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\Ldt_day5model\\Ldt_day5model\\views\\Ldtmember\\Ldtgetmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ldt_Day5Model\\Ldt_Day5Model.csproj|solutionrelative:Ldt_day5model\\views\\Ldtmember\\Ldtgetmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ldt_Day5Model\\Ldt_Day5Model.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\Ldt_day5model\\Ldt_day5model\\views\\Ldthome\\Ldtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ldt_Day5Model\\Ldt_Day5Model.csproj|solutionrelative:Ldt_day5model\\views\\Ldthome\\Ldtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ldt_Day5Model\\Ldt_Day5Model.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\Ldt_day5model\\Ldt_day5model\\views\\shared\\_Ldtlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ldt_Day5Model\\Ldt_Day5Model.csproj|solutionrelative:Ldt_day5model\\views\\shared\\_Ldtlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ldt_Day5Model\\Ldt_Day5Model.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\Ldt_day5model\\Ldt_day5model\\views\\shared\\_Ldtnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ldt_Day5Model\\Ldt_Day5Model.csproj|solutionrelative:Ldt_day5model\\views\\shared\\_Ldtnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ldt_Day5Model\\Ldt_Day5Model.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\Ldt_day5model\\Ldt_day5model\\controllers\\Ldtmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ldt_Day5Model\\Ldt_Day5Model.csproj|solutionrelative:Ldt_day5model\\controllers\\Ldtmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ldt_Day5Model\\Ldt_Day5Model.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\Ldt_day5model\\Ldt_day5model\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ldt_Day5Model\\Ldt_Day5Model.csproj|solutionrelative:Ldt_day5model\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ldt_Day5Model\\Ldt_Day5Model\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Ldt_Day5Model\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ldt_Day5Model\\Ldt_Day5Model\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Ldt_Day5Model\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T08:34:32.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LdtAbout.cshtml",
+              "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ldt_Day5Model\\Ldt_Day5Model\\Views\\LdtHome\\LdtAbout.cshtml",
+              "RelativeDocumentMoniker": "Ldt_Day5Model\\Views\\LdtHome\\LdtAbout.cshtml",
+              "ToolTip": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ldt_Day5Model\\Ldt_Day5Model\\Views\\LdtHome\\LdtAbout.cshtml",
+              "RelativeToolTip": "Ldt_Day5Model\\Views\\LdtHome\\LdtAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T07:21:53.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LdtHomeController.cs",
+              "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ldt_Day5Model\\Ldt_Day5Model\\Controllers\\LdtHomeController.cs",
+              "RelativeDocumentMoniker": "Ldt_Day5Model\\Controllers\\LdtHomeController.cs",
+              "ToolTip": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ldt_Day5Model\\Ldt_Day5Model\\Controllers\\LdtHomeController.cs",
+              "RelativeToolTip": "Ldt_Day5Model\\Controllers\\LdtHomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:14:13.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LdtLayout.cshtml",
+              "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ldt_Day5Model\\Ldt_Day5Model\\Views\\Shared\\_LdtLayout.cshtml",
+              "RelativeDocumentMoniker": "Ldt_Day5Model\\Views\\Shared\\_LdtLayout.cshtml",
+              "ToolTip": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ldt_Day5Model\\Ldt_Day5Model\\Views\\Shared\\_LdtLayout.cshtml",
+              "RelativeToolTip": "Ldt_Day5Model\\Views\\Shared\\_LdtLayout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T07:13:06.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LdtIndex.cshtml",
+              "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ldt_Day5Model\\Ldt_Day5Model\\Views\\LdtHome\\LdtIndex.cshtml",
+              "RelativeDocumentMoniker": "Ldt_Day5Model\\Views\\LdtHome\\LdtIndex.cshtml",
+              "ToolTip": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ldt_Day5Model\\Ldt_Day5Model\\Views\\LdtHome\\LdtIndex.cshtml",
+              "RelativeToolTip": "Ldt_Day5Model\\Views\\LdtHome\\LdtIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T07:09:04.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LdtNavBar.cshtml",
+              "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ldt_Day5Model\\Ldt_Day5Model\\Views\\Shared\\_LdtNavBar.cshtml",
+              "RelativeDocumentMoniker": "Ldt_Day5Model\\Views\\Shared\\_LdtNavBar.cshtml",
+              "ToolTip": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ldt_Day5Model\\Ldt_Day5Model\\Views\\Shared\\_LdtNavBar.cshtml",
+              "RelativeToolTip": "Ldt_Day5Model\\Views\\Shared\\_LdtNavBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T02:53:39.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LdtIndex.cshtml",
+              "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ldt_Day5Model\\Ldt_Day5Model\\Views\\LdtMember\\LdtIndex.cshtml",
+              "RelativeDocumentMoniker": "Ldt_Day5Model\\Views\\LdtMember\\LdtIndex.cshtml",
+              "ToolTip": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ldt_Day5Model\\Ldt_Day5Model\\Views\\LdtMember\\LdtIndex.cshtml",
+              "RelativeToolTip": "Ldt_Day5Model\\Views\\LdtMember\\LdtIndex.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T02:45:32.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LdtGetMember.cshtml",
+              "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ldt_Day5Model\\Ldt_Day5Model\\Views\\LdtMember\\LdtGetMember.cshtml",
+              "RelativeDocumentMoniker": "Ldt_Day5Model\\Views\\LdtMember\\LdtGetMember.cshtml",
+              "ToolTip": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ldt_Day5Model\\Ldt_Day5Model\\Views\\LdtMember\\LdtGetMember.cshtml",
+              "RelativeToolTip": "Ldt_Day5Model\\Views\\LdtMember\\LdtGetMember.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T02:33:24.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LdtMemberController.cs",
+              "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ldt_Day5Model\\Ldt_Day5Model\\Controllers\\LdtMemberController.cs",
+              "RelativeDocumentMoniker": "Ldt_Day5Model\\Controllers\\LdtMemberController.cs",
+              "ToolTip": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ldt_Day5Model\\Ldt_Day5Model\\Controllers\\LdtMemberController.cs",
+              "RelativeToolTip": "Ldt_Day5Model\\Controllers\\LdtMemberController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T02:26:45.471Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
