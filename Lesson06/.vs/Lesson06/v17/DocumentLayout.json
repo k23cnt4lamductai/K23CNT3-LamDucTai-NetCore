@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\NetCore\\K23CNT3-LamDucTai-NetCore\\Lesson06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{123B49FE-C8FC-450A-A687-109C10822044}|Lesson06.csproj|c:\\netcore\\k23cnt3-lamductai-netcore\\lesson06\\controllers\\ldtemployeecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123B49FE-C8FC-450A-A687-109C10822044}|Lesson06.csproj|solutionrelative:controllers\\ldtemployeecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123B49FE-C8FC-450A-A687-109C10822044}|Lesson06.csproj|c:\\netcore\\k23cnt3-lamductai-netcore\\lesson06\\controllers\\ldthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123B49FE-C8FC-450A-A687-109C10822044}|Lesson06.csproj|solutionrelative:controllers\\ldthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123B49FE-C8FC-450A-A687-109C10822044}|Lesson06.csproj|c:\\netcore\\k23cnt3-lamductai-netcore\\lesson06\\views\\ldthome\\ldtabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{123B49FE-C8FC-450A-A687-109C10822044}|Lesson06.csproj|solutionrelative:views\\ldthome\\ldtabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123B49FE-C8FC-450A-A687-109C10822044}|Lesson06.csproj|c:\\netcore\\k23cnt3-lamductai-netcore\\lesson06\\views\\ldtemployee\\ldtedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{123B49FE-C8FC-450A-A687-109C10822044}|Lesson06.csproj|solutionrelative:views\\ldtemployee\\ldtedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123B49FE-C8FC-450A-A687-109C10822044}|Lesson06.csproj|c:\\netcore\\k23cnt3-lamductai-netcore\\lesson06\\views\\ldtemployee\\ldtcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{123B49FE-C8FC-450A-A687-109C10822044}|Lesson06.csproj|solutionrelative:views\\ldtemployee\\ldtcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123B49FE-C8FC-450A-A687-109C10822044}|Lesson06.csproj|c:\\netcore\\k23cnt3-lamductai-netcore\\lesson06\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123B49FE-C8FC-450A-A687-109C10822044}|Lesson06.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123B49FE-C8FC-450A-A687-109C10822044}|Lesson06.csproj|c:\\netcore\\k23cnt3-lamductai-netcore\\lesson06\\models\\ldtemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123B49FE-C8FC-450A-A687-109C10822044}|Lesson06.csproj|solutionrelative:models\\ldtemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123B49FE-C8FC-450A-A687-109C10822044}|Lesson06.csproj|c:\\netcore\\k23cnt3-lamductai-netcore\\lesson06\\views\\ldtemployee\\ldtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{123B49FE-C8FC-450A-A687-109C10822044}|Lesson06.csproj|solutionrelative:views\\ldtemployee\\ldtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LdtAbout.cshtml",
+              "DocumentMoniker": "C:\\NetCore\\K23CNT3-LamDucTai-NetCore\\Lesson06\\Views\\LdtHome\\LdtAbout.cshtml",
+              "RelativeDocumentMoniker": "Views\\LdtHome\\LdtAbout.cshtml",
+              "ToolTip": "C:\\NetCore\\K23CNT3-LamDucTai-NetCore\\Lesson06\\Views\\LdtHome\\LdtAbout.cshtml",
+              "RelativeToolTip": "Views\\LdtHome\\LdtAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T01:38:50.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LdtHomeController.cs",
+              "DocumentMoniker": "C:\\NetCore\\K23CNT3-LamDucTai-NetCore\\Lesson06\\Controllers\\LdtHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LdtHomeController.cs",
+              "ToolTip": "C:\\NetCore\\K23CNT3-LamDucTai-NetCore\\Lesson06\\Controllers\\LdtHomeController.cs",
+              "RelativeToolTip": "Controllers\\LdtHomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T01:31:33.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LdtCreate.cshtml",
+              "DocumentMoniker": "C:\\NetCore\\K23CNT3-LamDucTai-NetCore\\Lesson06\\Views\\LdtEmployee\\LdtCreate.cshtml",
+              "RelativeDocumentMoniker": "Views\\LdtEmployee\\LdtCreate.cshtml",
+              "ToolTip": "C:\\NetCore\\K23CNT3-LamDucTai-NetCore\\Lesson06\\Views\\LdtEmployee\\LdtCreate.cshtml",
+              "RelativeToolTip": "Views\\LdtEmployee\\LdtCreate.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T03:00:14.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LdtEdit.cshtml",
+              "DocumentMoniker": "C:\\NetCore\\K23CNT3-LamDucTai-NetCore\\Lesson06\\Views\\LdtEmployee\\LdtEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\LdtEmployee\\LdtEdit.cshtml",
+              "ToolTip": "C:\\NetCore\\K23CNT3-LamDucTai-NetCore\\Lesson06\\Views\\LdtEmployee\\LdtEdit.cshtml",
+              "RelativeToolTip": "Views\\LdtEmployee\\LdtEdit.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwCQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T03:01:43.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LdtEmployeeController .cs",
+              "DocumentMoniker": "C:\\NetCore\\K23CNT3-LamDucTai-NetCore\\Lesson06\\Controllers\\LdtEmployeeController .cs",
+              "RelativeDocumentMoniker": "Controllers\\LdtEmployeeController .cs",
+              "ToolTip": "C:\\NetCore\\K23CNT3-LamDucTai-NetCore\\Lesson06\\Controllers\\LdtEmployeeController .cs",
+              "RelativeToolTip": "Controllers\\LdtEmployeeController .cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAcwGAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T02:13:29.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\NetCore\\K23CNT3-LamDucTai-NetCore\\Lesson06\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\NetCore\\K23CNT3-LamDucTai-NetCore\\Lesson06\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:18:10.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LdtEmployee.cs",
+              "DocumentMoniker": "C:\\NetCore\\K23CNT3-LamDucTai-NetCore\\Lesson06\\Models\\LdtEmployee.cs",
+              "RelativeDocumentMoniker": "Models\\LdtEmployee.cs",
+              "ToolTip": "C:\\NetCore\\K23CNT3-LamDucTai-NetCore\\Lesson06\\Models\\LdtEmployee.cs",
+              "RelativeToolTip": "Models\\LdtEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T02:09:02.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LdtIndex.cshtml",
+              "DocumentMoniker": "C:\\NetCore\\K23CNT3-LamDucTai-NetCore\\Lesson06\\Views\\LdtEmployee\\LdtIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\LdtEmployee\\LdtIndex.cshtml",
+              "ToolTip": "C:\\NetCore\\K23CNT3-LamDucTai-NetCore\\Lesson06\\Views\\LdtEmployee\\LdtIndex.cshtml",
+              "RelativeToolTip": "Views\\LdtEmployee\\LdtIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T02:48:40.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

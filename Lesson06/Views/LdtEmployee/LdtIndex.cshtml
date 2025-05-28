@@ -1,0 +1,43 @@
+﻿@model List<Lesson06.Models.LdtEmployee>
+
+@{
+    ViewData["Title"] = "Danh sách nhân viên";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<a class="btn btn-primary mb-3" asp-action="LdtCreate">Thêm nhân viên mới</a>
+
+<table class="table table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <th>ID</th>
+            <th>Họ tên</th>
+            <th>Ngày sinh</th>
+            <th>Email</th>
+            <th>SĐT</th>
+            <th>Lương</th>
+            <th>Trạng thái</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Model)
+        {
+            <tr>
+                <td>@emp.LdtId</td>
+                <td>@emp.LdtName</td>
+                <td>@emp.LdtBirthDay.ToString("dd/MM/yyyy")</td>
+                <td>@emp.LdtEmail</td>
+                <td>@emp.LdtPhone</td>
+                <td>@emp.LdtSalary.ToString("N0")</td>
+                <td>@(emp.LdtStatus ? "Đang làm" : "Nghỉ")</td>
+                <td>
+                    <a class="btn btn-sm btn-warning" asp-action="LdtEdit" asp-route-id="@emp.LdtId">Sửa</a>
+                    <a class="btn btn-sm btn-danger" asp-action="LdtDelete" asp-route-id="@emp.LdtId">Xoá</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

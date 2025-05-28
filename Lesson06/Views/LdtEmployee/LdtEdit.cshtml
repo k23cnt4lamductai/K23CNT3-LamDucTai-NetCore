@@ -1,0 +1,37 @@
+﻿@model Lesson06.Models.LdtEmployee
+
+@{
+    ViewData["Title"] = "Chỉnh sửa nhân viên";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="LdtEditPUT" method="post">
+    <input type="hidden" asp-for="LdtId" />
+    <div class="mb-3">
+        <label>Họ tên</label>
+        <input asp-for="LdtName" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>Ngày sinh</label>
+        <input asp-for="LdtBirthDay" class="form-control" type="date" />
+    </div>
+    <div class="mb-3">
+        <label>Email</label>
+        <input asp-for="LdtEmail" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>SĐT</label>
+        <input asp-for="LdtPhone" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>Lương</label>
+        <input asp-for="LdtSalary" class="form-control" />
+    </div>
+    <div class="mb-3 form-check">
+        <input asp-for="LdtStatus" class="form-check-input" />
+        <label class="form-check-label">Đang làm việc</label>
+    </div>
+    <button type="submit" class="btn btn-primary">Cập nhật</button>
+    <a asp-action="LdtIndex" class="btn btn-secondary">Hủy</a>
+</form>
