@@ -1,0 +1,62 @@
+﻿@model Lesson07.Models.LdtEmployee
+
+@{
+    ViewData["Title"] = "Xóa Nhân Viên";
+}
+
+<h1>Xóa Nhân Viên </h1>
+
+<h3>Bạn chắc chắn muốn xóa không ?</h3>
+<div>
+    <h4>LdtEmployee</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.LdtId)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.LdtId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.LdtName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.LdtName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.LdtBirthDay)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.LdtBirthDay)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.LdtEmail)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.LdtEmail)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.LdtPhone)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.LdtPhone)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.LdtSalary)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.LdtSalary)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.LdtStatus)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.LdtStatus)
+        </dd>
+    </dl>
+    
+    <form asp-action="LdtDelete">
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="LdtIndex">Back to List</a>
+    </form>
+</div>

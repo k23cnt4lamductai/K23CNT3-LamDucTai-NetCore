@@ -1,0 +1,61 @@
+﻿@model Lesson07.Models.LdtEmployee
+
+@{
+    ViewData["Title"] = "Thêm mới nhân viên";
+}
+
+<h1>Thêm mới nhân viên</h1>
+<hr />
+
+<h4>LdtEmployee</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="LdtCreate">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="LdtId" class="control-label"></label>
+                <input asp-for="LdtId" class="form-control" />
+                <span asp-validation-for="LdtId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LdtName" class="control-label"></label>
+                <input asp-for="LdtName" class="form-control" />
+                <span asp-validation-for="LdtName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LdtBirthDay" class="control-label"></label>
+                <input asp-for="LdtBirthDay" class="form-control" />
+                <span asp-validation-for="LdtBirthDay" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LdtEmail" class="control-label"></label>
+                <input asp-for="LdtEmail" class="form-control" />
+                <span asp-validation-for="LdtEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LdtPhone" class="control-label"></label>
+                <input asp-for="LdtPhone" class="form-control" />
+                <span asp-validation-for="LdtPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LdtSalary" class="control-label"></label>
+                <input asp-for="LdtSalary" class="form-control" />
+                <span asp-validation-for="LdtSalary" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="LdtStatus" /> @Html.DisplayNameFor(model => model.LdtStatus)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="LdtIndex">Back to List</a>
+</div>
+
