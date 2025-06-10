@@ -1,0 +1,75 @@
+﻿@model Lesson08.Models.LdtAccount
+
+@{
+    ViewData["Title"] = "View";
+}
+
+<h1>View</h1>
+
+<h4>LdtAccount</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="View">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="LdtId" class="control-label"></label>
+                <input asp-for="LdtId" class="form-control" />
+                <span asp-validation-for="LdtId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LdtFullName" class="control-label"></label>
+                <input asp-for="LdtFullName" class="form-control" />
+                <span asp-validation-for="LdtFullName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LdtEmail" class="control-label"></label>
+                <input asp-for="LdtEmail" class="form-control" />
+                <span asp-validation-for="LdtEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LdtPhone" class="control-label"></label>
+                <input asp-for="LdtPhone" class="form-control" />
+                <span asp-validation-for="LdtPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LdtAddress" class="control-label"></label>
+                <input asp-for="LdtAddress" class="form-control" />
+                <span asp-validation-for="LdtAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LdtAvatar" class="control-label"></label>
+                <input asp-for="LdtAvatar" class="form-control" />
+                <span asp-validation-for="LdtAvatar" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LdtBirthday" class="control-label"></label>
+                <input asp-for="LdtBirthday" class="form-control" />
+                <span asp-validation-for="LdtBirthday" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LdtGender" class="control-label"></label>
+                <input asp-for="LdtGender" class="form-control" />
+                <span asp-validation-for="LdtGender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LdtPassword" class="control-label"></label>
+                <input asp-for="LdtPassword" class="form-control" />
+                <span asp-validation-for="LdtPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LdtFacebook" class="control-label"></label>
+                <input asp-for="LdtFacebook" class="form-control" />
+                <span asp-validation-for="LdtFacebook" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
