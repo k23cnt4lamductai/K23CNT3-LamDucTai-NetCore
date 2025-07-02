@@ -1,0 +1,56 @@
+﻿@model LamDucTai_2310900092.Models.LdtEmployee
+
+@{
+    ViewData["Title"] = "Thêm Nhân Viên ";
+}
+
+<<div class="card shadow-sm mx-auto mt-4" style="max-width: 600px;">
+    <div class="card-header bg-primary text-white">
+        <h4 class="text-center my-2">@ViewData["Title"]</h4>
+    </div>
+
+    <div class="card-body">
+        <form asp-action="LdtCreate">
+            <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+            <div class="mb-3">
+                <label asp-for="LdtEmpName" class="form-label fw-semibold"></label>
+                <input asp-for="LdtEmpName" class="form-control" placeholder="Nhập tên nhân viên" />
+                <span asp-validation-for="LdtEmpName" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="LdtEmpLevel" class="form-label fw-semibold"></label>
+                <input asp-for="LdtEmpLevel" class="form-control" placeholder="Nhập cấp bậc" />
+                <span asp-validation-for="LdtEmpLevel" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="LdtEmpStartDate" class="form-label fw-semibold"></label>
+                <input asp-for="LdtEmpStartDate" class="form-control" type="date" />
+                <span asp-validation-for="LdtEmpStartDate" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="LdtEmpStatus" class="form-label fw-semibold"></label>
+                <select asp-for="LdtEmpStatus" class="form-select">
+                    <option value="">-- Chọn trạng thái --</option>
+                    <option value="true"> Hiển thị</option>
+                    <option value="false">Tạm ẩn</option>
+                </select>
+                <span asp-validation-for="LdtEmpStatus" class="text-danger"></span>
+            </div>
+
+            <div class="text-center">
+                <button type="submit" class="btn btn-success">💾 Lưu</button>
+                <a asp-action="LdtIndex" class="btn btn-secondary ms-2">⬅️ Quay lại</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

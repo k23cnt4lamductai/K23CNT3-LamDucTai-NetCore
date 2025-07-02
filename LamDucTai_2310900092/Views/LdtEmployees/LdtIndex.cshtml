@@ -1,0 +1,49 @@
+﻿@model IEnumerable<LamDucTai_2310900092.Models.LdtEmployee>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2 class="text-center my-4">@ViewData["Title"]</h2>
+
+<p>
+    <a asp-action="LdtCreate" class="btn btn-success">➕ Thêm mới</a>
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.First().LdtEmpName)</th>
+            <th>@Html.DisplayNameFor(model => model.First().LdtEmpLevel)</th>
+            <th>@Html.DisplayNameFor(model => model.First().LdtEmpStartDate)</th>
+            <th>@Html.DisplayNameFor(model => model.First().LdtEmpStatus)</th>
+            <th class="text-center">Thao tác</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.LdtEmpName</td>
+                <td>@item.LdtEmpLevel</td>
+                <td>@(item.LdtEmpStartDate?.ToString("dd/MM/yyyy"))</td>
+                <td>
+                    @if (item.LdtEmpStatus == true)
+                    {
+                        <span class="badge bg-success">Hiển thị</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-secondary">Tạm khóa</span>
+                    }
+                </td>
+
+                <td class="text-center">
+                    <a asp-action="LdtDetails" asp-route-Ldtid="@item.LdtEmpId" class="btn btn-info btn-sm">🔍 Xem</a>
+                    <a asp-action="LdtEdit" asp-route-Ldtid="@item.LdtEmpId" class="btn btn-warning btn-sm">✏️ Sửa</a>
+                    <a asp-action="LdtDelete" asp-route-Ldtid="@item.LdtEmpId" class="btn btn-danger btn-sm">🗑️ Xoá</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
